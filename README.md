@@ -1,3 +1,3 @@
 # MIS581-Portfolio-Project
-MIS581 Portfolio Project - Zach Morrow
-The research aim is to
+
+The research aim is to identify student attributes (predictor variables) that are significantly related to student performance. The identification of these significant predictor variables would provide value to schools looking to increase student performance through the improved allocation of resources. To identify significant predictor variables, hypothesis testing will be performed through multiple linear regression in SAS Studio. Parameter estimates of significant predictor variables can be used to create an estimate equation that can predict student performance.
